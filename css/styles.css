@@ -175,6 +175,7 @@ font-size: 14px;
 line-height: 1.1428;
 text-transform: uppercase;
 color: var(--tittle-text-color);
+flex-basis: calc((100% - 90px) / 4);
 margin: 0px;
 padding-bottom: 10px;
 }
