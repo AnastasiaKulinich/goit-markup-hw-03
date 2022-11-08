@@ -166,14 +166,17 @@ gap: 30px;
 padding: 0 ;
 margin: 0;
 }
+.link-item{
+flex-basis: calc ((100% - 90%) / 4);
+}
 .about-title {
 font-weight: 700;
 font-size: 14px;
 line-height: 1.1428;
 text-transform: uppercase;
+color: var(--tittle-text-color);
 margin: 0px;
 padding-bottom: 10px;
-flex-basis: calc ((100% - 90%) / 4);
 }
 .about-subtitle {
 line-height: 1.7142;
