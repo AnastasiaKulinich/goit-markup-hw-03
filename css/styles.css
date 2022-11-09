@@ -355,9 +355,8 @@ text-decoration: none;
 }
 .gallery-tittle{
 padding: 20px 24px;
-border-right: 1px solid #EEEEEE;
-border-bottom: 1px solid #EEEEEE;
-border-left: 1px solid #EEEEEE;
+border:1px solid #EEEEEE;
+text-align: left;
 }
 .project-tittle {
 font-weight: 700;
