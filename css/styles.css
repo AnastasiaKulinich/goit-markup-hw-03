@@ -101,10 +101,13 @@ body {
 }
 .adress-header-link {
   text-decoration: none;
+  font-style: normal;
   font-weight: 500;
   line-height: 1.1428;
   letter-spacing: 0.02em;
-  color: var(--primary-text-color);
+  color: var(--tittle-text-color);
+  font-size: 14px;
+  display: block;
   padding-top: 32px;
   padding-bottom: 32px;
 }
